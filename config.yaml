@@ -164,6 +164,7 @@ params:
         - "Pandas"
         - "NumPy"
         - "REST APIs"
+        - "Git"
         
         
 
