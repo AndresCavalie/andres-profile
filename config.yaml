@@ -156,6 +156,8 @@ params:
         - "PHP"
         - "SQL"
         - "Javascript"
+        - "React"
+        - "Node"
         - "Java"
         - "HTML/CSS"
         - "Flask"
@@ -357,7 +359,7 @@ params:
         badges:
           - "Python"
           - "Flask"
-          
+          - "React"
           - "Javascript"
           - "HTML/CSS"
           - "SQLite"
