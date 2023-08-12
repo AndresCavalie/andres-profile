@@ -118,7 +118,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: /docs/AndresCavalieResume2023.pdf
+      url: /docs/AndresCavalieResume.pdf
       download: false
       newPage: true
     button2:
