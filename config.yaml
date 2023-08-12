@@ -162,7 +162,6 @@ params:
         - "React"
         - "PHP"
         - "C++""
-        
         - "Node"
         - "Tensorflow"
         - "OpenCV"
